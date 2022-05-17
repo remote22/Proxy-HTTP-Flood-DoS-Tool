@@ -684,9 +684,9 @@ class HttpFlood(Thread):
 
 
 
-print("         ->>>>>>> PROXY HTTP FLOOD       <<<<<<<-")
+print("         ->>>>>>> PROXY HTTP FLOOD <<<<<<<- FREE Bitcoin - http://fumacrom.com/3SMYx # Work at Home - http://fumacrom.com/3SMYT ")
 
-print("         ->>>>>>> The Power Of DDos 2016 <<<<<<<-")
+print("         ->>>>>>> The Power Of DDos <<<<<<<- target: lakecountyclerk.org # Get Paid to share links - https://bit.ly/3zI3oWG ")
 
 url = raw_input("Site: ")
 host_url = url.replace("http://", "").replace("https://", "").split('/')[0]
